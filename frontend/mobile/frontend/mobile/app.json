@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "My AI Twin Social",
+    "slug": "ai-twin-social",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "jsEngine": "hermes",
+    "sdkVersion": "50.0.0"
+  }
+}
